@@ -1,2 +1,2 @@
-# ty-tardis
+# Minimal Tardis
 Minimalist WordPress theme.
